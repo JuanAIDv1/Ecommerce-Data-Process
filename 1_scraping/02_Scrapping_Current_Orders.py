@@ -20,8 +20,8 @@ ENV_PATH = r"C:/Ingestador/configs/Login.env"
 COOKIES_PATH = r"C:/Ingestador/cookies/dropiro.json"
 EXCEL_PATH = r"C:/Ingestador/output/pedidos_dropipro.xlsx"
 LOGIN_URL = "https://dropipro.com"
-USER_FALLBACK = "starttok.y@gmail.com"
-PWD_FALLBACK = "Proyectoy25"
+USER_FALLBACK = "*********@********.com"
+PWD_FALLBACK = "*********"
 COLUMNS_EXPECTED = [
     "Tienda", "Numero de Pedido", "Nombre completo", "Fecha de Pedido",
     "Dirección", "Dirección 2", "Teléfono", "Email", "Ciudad", "Provincia",
