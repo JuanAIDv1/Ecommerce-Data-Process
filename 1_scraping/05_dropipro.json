@@ -1,0 +1,4 @@
+"nombre": "DropiPro",
+    "tipo": "scraping",
+    "url_login": "https://dropipro.com/login",
+    "url_pedidos": "https://dropipro.com/app/orders"
