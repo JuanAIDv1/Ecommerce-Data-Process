@@ -15,7 +15,7 @@ Project Workflow
 5. Business insights generation
 
 Tools & Technologies
-- Python (Pandas, Requests, BeautifulSoup)
+- Python (Pandas, Selenium WebDriverWeb)
 - Jupyter Notebook
 - Power BI
 - CSV / Excel
