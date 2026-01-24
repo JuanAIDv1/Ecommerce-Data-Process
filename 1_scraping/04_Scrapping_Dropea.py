@@ -10,8 +10,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
 from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime
-EMAIL = "paulapamp@icloud.com"
-PASSWORD = "*****"
+EMAIL = "*******@********.com"
+PASSWORD = "******"
 chrome_options = Options()
 chrome_options.add_argument("--start-maximized")
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
