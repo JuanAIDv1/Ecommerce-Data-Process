@@ -22,8 +22,8 @@ URL_BASE = "https://dropipro.com/"
 COOKIES_PATH = r"C:\Ingestador\cookies\dropipro\dropipro.json"
 ENV_PATH = r"C:\Ingestador\configs\Login.env"
 EXCEL_PATH = r"C:\Ingestador\output\pedidos_dropipro.xlsx"
-USER_FALLBACK = "starttok.y@gmail.com"
-PWD_FALLBACK = "Proyectoy25"
+USER_FALLBACK = "***********@*********.com"
+PWD_FALLBACK = "*********"
 XPATH_SIDE_MENU_PEDIDOS_TODOS = '//*[@id="side-menu"]/li[7]/a/span'
 XPATH_TABLE_ROWS = '//*[@id="layout-wrapper"]/div[2]/div/div/div[2]/div/div/div[2]/div[1]/table/tbody/tr'
 XPATH_ROW_NUMBER = lambda r: f'({XPATH_TABLE_ROWS})[{r}]/td[1]'
