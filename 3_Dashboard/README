@@ -1,0 +1,26 @@
+BI Dashboard:
+
+This folder contains the Business Intelligence dashboard developed
+to visualize and analyze processed e-commerce data.
+
+ToolS:
+- Power BI Desktop
+
+Data Sources:
+The dashboard consumes processed Excel datasets generated in the
+`2_data_processing` module, including standardized mapping files (MAPs).
+
+Key Insights:
+The dashboard enables analysis of:
+- Sales performance
+- Product distribution
+- Geographic trends
+- Channel and category breakdowns
+
+Refresh Logic:
+The dashboard is refreshed after executing the scraping and
+data processing workflows, ensuring updated insights.
+
+Files:
+- `.pbix` file: main Power BI dashboard
+- Preview images: visual reference of dashboard pages
