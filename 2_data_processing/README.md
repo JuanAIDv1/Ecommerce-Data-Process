@@ -1,0 +1,21 @@
+Data Processing Module:
+
+This folder contains all processed datasets and reference mapping files
+used as input for the Power BI dashboard.
+
+Description:
+The Excel files in this module are generated or maintained as part of
+the data preparation process.
+
+Scraping scripts generate the core datasets, while mapping files (MAPs)
+are used to standardize and harmonize business criteria across the data.
+
+Data Flow:
+1. Web scraping extracts raw e-commerce data
+2. Data is consolidated into analytical matrices
+3. Mapping files are applied to unify categories, regions and channels
+4. Final datasets are consumed by the BI dashboard
+
+Output Files:
+- Sales and product analytical matrices
+- Mapping reference files (MAPs) for data homogenization
