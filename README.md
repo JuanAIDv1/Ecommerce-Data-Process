@@ -18,7 +18,7 @@ Tools & Technologies
 - Python (Pandas, Selenium WebDriverWeb)
 - Jupyter Notebook
 - Power BI
-- CSV / Excel
+- Excel (.xlsx)
 - GitHub
 
 Data Source
